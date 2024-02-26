@@ -29,6 +29,7 @@ const LoginForm = () => {
     }
 
     return ( 
+        
         <form onSubmit={login} className="max-w-sm mx-auto mt-24">
             
                 <h1 className='text-white text-3xl font-bold text-center mb-5'>Login</h1>
